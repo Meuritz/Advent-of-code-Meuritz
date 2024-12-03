@@ -32,6 +32,7 @@ def similarity(list1, list2):
 
     #we initialize a variable for the similarity score
     similarity_score = 0
+    
     #for each element in the first list, we multiply that number for it's occurencies stored in the dictionary
     for number in list1:
 
